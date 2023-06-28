@@ -2,7 +2,7 @@
 
 # WELCOME TO THIS GCG EVENT
 Vertex AI project repository designed for Gen AI GCG event- June 2023
-
+![banner](https://github.com/devoteamgcloud/gdg-genai-2023-notebook/blob/main/pics/banner.png)
 
 ## Objectives
 :dart: Familiarize yourself with the Gen AI Python SDK \
